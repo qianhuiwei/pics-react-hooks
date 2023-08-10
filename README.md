@@ -1,10 +1,10 @@
 # Pics
 
 This is a simple React app that allows the user search images by typing some keywords.<br />
-This app demonstrates how to implement the following tasks in React:
-* React functional components using hooks.
+This app demonstrates how to accomplish the following tasks in React:
+* Implementing React functional components using hooks.
 * User input & event handling.
-* Maintain user input values with controlled components.
+* Maintaining user input values with controlled components.
 * Fetching data from an outside API.
 * Showing a list of data.
 
